@@ -1,4 +1,6 @@
- Emailer for Python 3.7
+ Emailer 
+ Python 3.7
+ Tim Brown
  #imported Python Packages 
  from email import encoders
  from email.mime.base import MIMEBase 
