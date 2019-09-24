@@ -1,0 +1,4 @@
+ Open a file and write to it
+ 
+with open('drive/folder/out.txt') as text_file, open('drive/folder/out.txt', 'w',encoding='utf-8') as myfile:   # this is for char
+with open('drive/folder/.txt','rb') as text_file, open('drive/folder/out.txt', 'wb') as myfile:  # this is for bytes, int, floats
