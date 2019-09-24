@@ -1,0 +1,4 @@
+iteration
+
+for x in a:
+  a #for loop statement
