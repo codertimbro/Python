@@ -1,0 +1,23 @@
+Basketball Game Prediction Analysis
+Top 10 Predictive Factors
+Imply_score: 100.0% accuracy
+Predictive Rating: 89.9% accuracy
+Non-Conf Rating: 84.2% accuracy
+Vs. 201+ Rating: 81.9% accuracy
+location_rating: 81.5% accuracy
+In-Conf Rating: 81.1% accuracy
+Second Half Rating: 80.6% accuracy
+First Half Rating: 80.0% accuracy
+Season SOS: 79.7% accuracy
+Last 10 Rating: 79.4% accuracy
+Bottom 10 Predictive Factors
+Neutral Rating: 57.7% accuracy
+Luck Rating: 57.2% accuracy
+SOS - Basic: 55.1% accuracy
+Consistency Rating: 52.2% accuracy
+Vs. 26-50 Rating: 49.7% accuracy
+Vs. 1-25 Rating: 48.6% accuracy
+Home Advantage: 47.9% accuracy
+Away_Final_Points_Scored: 33.1% accuracy
+Margin_of_victory: 33.1% accuracy
+Difference_imply_score: 33.1% accuracy
